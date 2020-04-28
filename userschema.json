@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5e9615c1c2ec4540c99fb400"},"name":"kungfupanda","username":"dragonmaster","password":"123456","gender":"male","designation":{"$numberInt":"1"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e961692c2ec4540c99fb404"},"name":"mastershifu","username":"teacher","password":"123456","gender":"male","designation":{"$numberInt":"2"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e9616a3c2ec4540c99fb406"},"name":"oogway","username":"principal","password":"123456","gender":"male","designation":{"$numberInt":"2"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e9cadb23e213026310d7d26"},"name":"haziq","username":"haziq","password":"123","gender":"male","designation":{"$numberInt":"2"},"__v":{"$numberInt":"0"}}

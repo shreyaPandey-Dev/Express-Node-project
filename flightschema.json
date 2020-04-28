@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5e974b9f265d69e7e8cd5f55"},"name":"Vistara","origin":"CCU","destination":"DEL","fare":{"$numberInt":"5000"},"type":"domestic","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e974baf265d69e7e8cd5f57"},"name":"Spice Jet","origin":"CCU","destination":"BOM","fare":{"$numberInt":"5000"},"type":"domestic","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e974bc4265d69e7e8cd5f59"},"name":"Etihad","origin":"DEL","destination":"UAE","fare":{"$numberInt":"5000"},"type":"domestic","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea55bd6f08e21cd1d2bae2e"},"name":"Air India","origin":"DEL","destination":"DIB","fare":{"$numberInt":"1300"},"type":"domestic","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea573df39adc1aac5d54590"},"name":"jet airways","origin":"DEL","destination":"dd","fare":{"$numberInt":"122"},"type":"international","__v":{"$numberInt":"0"}}
